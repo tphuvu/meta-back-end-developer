@@ -1,6 +1,6 @@
 # Quizzes
 
-## Week 1
+## Module 1
 
 ### Knowledge check: Databases and data
 
@@ -21,7 +21,7 @@
 ![](images/6.png)
 ![](images/7.png)
 
-## Week 2
+## Module 2
 
 ### Self review: Working with numbers
 
@@ -68,7 +68,7 @@
 ![](images/21.png)
 ![](images/22.png)
 
-## Week 3
+## Module 3
 
 ### Self-review: ORDER BY and WHERE
 

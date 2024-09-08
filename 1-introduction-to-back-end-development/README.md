@@ -1,14 +1,14 @@
 - [Quizzes](#quizzes)
-  - [Week 1](#week-1)
+  - [Module 1](#module-1)
     - [Knowledge Check - How the web works](#knowledge-check---how-the-web-works)
     - [Knowledge Check - The Web and the Internet](#knowledge-check---the-web-and-the-internet)
     - [Knowledge Check - Core Internet Technologies](#knowledge-check---core-internet-technologies)
     - [Module Quiz: Get started with Web Development](#module-quiz-get-started-with-web-development)
-  - [Week 2](#week-2)
+  - [Module 2](#module-2)
     - [Module Quiz: Introduction to HTML and CSS](#module-quiz-introduction-to-html-and-css)
-  - [Week 3](#week-3)
+  - [Module 3](#module-3)
     - [Module Quiz: UI Frameworks](#module-quiz-ui-frameworks)
-  - [Week 4](#week-4)
+  - [Module 4](#module-4)
     - [Course 1 Assessment: Introduction to Web Development](#course-1-assessment-introduction-to-web-development)
 - [Other Internet Protocols](#other-internet-protocols)
   - [Dynamic Host Configuration Protocol (DHCP)](#dynamic-host-configuration-protocol-dhcp)
@@ -31,7 +31,7 @@
 
 # Quizzes
 
-## Week 1
+## Module 1
 
 ### Knowledge Check - How the web works
 
@@ -57,7 +57,7 @@
 ![](images/11.png)
 ![](images/12.png)
 
-## Week 2
+## Module 2
 
 ### Module Quiz: Introduction to HTML and CSS
 
@@ -67,14 +67,14 @@
 ![](images/16.png)
 ![](images/17.png)
 
-## Week 3
+## Module 3
 
 ### Module Quiz: UI Frameworks
 
 ![](images/18.png)
 ![](images/19.png)
 
-## Week 4
+## Module 4
 
 ### Course 1 Assessment: Introduction to Web Development
 

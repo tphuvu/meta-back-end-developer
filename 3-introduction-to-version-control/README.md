@@ -1,14 +1,14 @@
 - [Quizzes](#quizzes)
-  - [Week 1](#week-1)
+  - [Module 1](#module-1)
     - [Knowledge Check: Introduction to version control](#knowledge-check-introduction-to-version-control)
     - [Module Quiz: Software collaboration](#module-quiz-software-collaboration)
-  - [Week 2](#week-2)
+  - [Module 2](#module-2)
     - [Knowledge Check: Unix Commands](#knowledge-check-unix-commands)
     - [Module Quiz: Command Line](#module-quiz-command-line)
-  - [Week 3](#week-3)
+  - [Module 3](#module-3)
     - [Knowledge Check: Git and GitHub](#knowledge-check-git-and-github)
     - [Module Quiz: Working with Git](#module-quiz-working-with-git)
-  - [Week 4](#week-4)
+  - [Module 4](#module-4)
     - [End-of-course graded assessment](#end-of-course-graded-assessment)
 - [Git Cheat Sheet (by GitHub)](#git-cheat-sheet-by-github)
   - [Configure tooling](#configure-tooling)
@@ -36,7 +36,7 @@
 
 # Quizzes
 
-## Week 1
+## Module 1
 
 ### Knowledge Check: Introduction to version control
 
@@ -49,7 +49,7 @@
 ![](images/4.png)
 ![](images/5.png)
 
-## Week 2
+## Module 2
 
 ### Knowledge Check: Unix Commands
 
@@ -60,7 +60,7 @@
 ![](images/7.png)
 ![](images/8.png)
 
-## Week 3
+## Module 3
 
 ### Knowledge Check: Git and GitHub
 
@@ -73,7 +73,7 @@
 ![](images/12.png)
 ![](images/13.png)
 
-## Week 4
+## Module 4
 
 ### End-of-course graded assessment
 
