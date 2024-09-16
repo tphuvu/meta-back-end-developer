@@ -9,6 +9,16 @@
     - [Knowledge check: Requests and URLs](#knowledge-check-requests-and-urls)
     - [Knowledge check: Handle errors in Views](#knowledge-check-handle-errors-in-views)
     - [Module Quiz: Views](#module-quiz-views)
+  - [Module 3](#module-3)
+    - [Knowledge Check: Models \& Migrations](#knowledge-check-models--migrations)
+    - [Knowledge Check: Model and Forms](#knowledge-check-model-and-forms)
+    - [Knowledge Check: Admin](#knowledge-check-admin)
+    - [Knowledge Check: Database Configuration](#knowledge-check-database-configuration)
+    - [Module Quiz: Models](#module-quiz-models)
+  - [Module 4](#module-4)
+    - [Knowledge check: Templates](#knowledge-check-templates)
+    - [Knowledge check: Working with Templates](#knowledge-check-working-with-templates)
+    - [Module Quiz: Templates](#module-quiz-templates)
 
 # Quizzes
 
@@ -58,3 +68,50 @@
 ![](images/17.png)
 ![](images/18.png)
 ![](images/19.png)
+
+## Module 3
+
+### Knowledge Check: Models & Migrations
+
+![](images/20.png)
+![](images/21.png)
+
+### Knowledge Check: Model and Forms
+
+![](images/22.png)
+![](images/23.png)
+![](images/24.png)
+
+### Knowledge Check: Admin
+
+![](images/25.png)
+![](images/26.png)
+
+### Knowledge Check: Database Configuration
+
+![](images/27.png)
+![](images/28.png)
+
+### Module Quiz: Models
+
+![](images/29.png)
+![](images/30.png)
+![](images/31.png)
+
+## Module 4
+
+### Knowledge check: Templates
+
+![](images/32.png)
+![](images/33.png)
+
+### Knowledge check: Working with Templates
+
+![](images/34.png)
+![](images/35.png)
+
+### Module Quiz: Templates
+
+![](images/36.png)
+![](images/37.png)
+![](images/38.png)
