@@ -19,6 +19,8 @@
     - [Knowledge check: Templates](#knowledge-check-templates)
     - [Knowledge check: Working with Templates](#knowledge-check-working-with-templates)
     - [Module Quiz: Templates](#module-quiz-templates)
+  - [Module 5](#module-5)
+    - [Final graded quiz: Django Web Framework](#final-graded-quiz-django-web-framework)
 - [MVT Overview](#mvt-overview)
   - [Web Framework](#web-framework)
   - [MVC Architecture](#mvc-architecture)
@@ -138,6 +140,15 @@
 ![](images/36.png)
 ![](images/37.png)
 ![](images/38.png)
+
+## Module 5
+
+### Final graded quiz: Django Web Framework
+
+![](images/39.png)
+![](images/40.png)
+![](images/41.png)
+![](images/42.png)
 
 # MVT Overview
 
